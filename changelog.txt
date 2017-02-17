@@ -1,0 +1,9 @@
+Run&Throw 0.9.9
++ Système d'interprétation des codes erreur HTTP
++ Affichage prédéfini des messages d'erreurs
++ Récupération des données de types :
+	* Identifiant du player
+	* Historique
+	* Statistiques Ranked mode
+	* Game actuellement en cour
+	* League

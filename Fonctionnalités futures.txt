@@ -1,0 +1,16 @@
+Ici sera listé les différentes fonctionnalités a réalisés prochainement :
+	* Statistiques pour les team ranked :
+		Methode -->
+			Team()
+			League(by-team)			
+	* Une page de profil de joueur :
+		- Les champions les plus jouer pour chaque joueur (ex : top3)
+			Methode -->
+				ChampionMastery()
+		- Les statistiques en normal et en ranked 
+			Methode -->
+				Stats by summoner(ranked / summary)
+	* [Page historique] Si on clique sur un nom de joueur, option :
+		Voir OpGG de l'invocateur
+		Voir sa page de profil
+	* [Page historique] Afficher le dernier level de chaque joueur 
